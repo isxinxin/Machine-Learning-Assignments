@@ -1,0 +1,8 @@
+
+# Experimental data set 
+
+This experiment involves three MNIST datasets, which are stored in the data folder;
+The data files in MNIST folder are used to train and test pytorch neural network model;
+mnist. Npz is used to test and train decision tree model;
+Two CSV files are used to test and train SVM model;
+Data sets used by random forests are directly downloaded and used through tensorflow internal data.
